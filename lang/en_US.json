@@ -1,0 +1,28 @@
+{
+  "home": "Home",
+  "profile": "Profile",
+  "more": "More",
+  "search": "Search",
+  "soon": "Soon",
+  "downloads": "Downloads",
+
+  "series": "Shows",
+  "movies": "Movies",
+  "mylist": "My List",
+
+  "envolving": "Envolving",
+  "exciting": "Exciting",
+  "watch": "Watch now",
+  "moreinfo": "More...",
+
+  "continuewatch": "continue to watch",
+  "national": "Nationals",
+  "recommended": "Recommended",
+  "topten": "Top 10",
+
+  "manageprofile": "Manage profile",
+  "done": "Done",
+  "chooseavatar": "Choose your Avatar",
+  "createavatar": "Create your Avatar",
+  "classic": "Classic"
+}
